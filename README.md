@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a bookstore website using Spring Framework and React on my own.**
 
-- 🌱 I’m currently learning **Spring Framework.**
+- 🌱 I’m currently learning **Spring Framework** and **ReactJS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
