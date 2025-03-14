@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linh</h1>
 <h3 align="center">I want to be a Software Engineer.</h3>
 
-- 🔭 I’m currently working on **a bookstore website using Spring Framework and React on my own.**
-
-- 🔭 I’m currently working on **a laptop website using Laravel MVC for my course.**
-
-- 🔭 I’m currently working on **a HRM App Mobile using Java Android for my course.**
-
 - 🌱 I’m currently learning **Spring Framework** and **ReactJS.**
 
 <h3 align="left">Connect with me:</h3>
