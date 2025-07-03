@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Passionate about Backend, Fullstack</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danglinh152&label=Profile%20views&color=0e75b6&style=flat" alt="danglinh152" />
+  <img src="https://komarev.com/ghpvc/?username=danglinh152-reset&label=Profile%20views&color=0e75b6&style=flat" alt="danglinh152" />
 </p>
 
 ---
