@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Spring Framework**, **Microservices Architecture**, **NestJS**, and **Next.js**  
 - 🛠️ Exploring cloud-native tools like **Docker**, **Kubernetes**, and **CI/CD pipelines**  
 - 💬 Ask me about **Java, Spring Boot, Node.js, Databases, Cloud & DevOps tools**  
-- 📫 How to reach me: **[danglinh1502@gmail.com](mailto:danglinh1502@gmail.com)**  
+- 📫 How to reach me: **[danglinh.k4@gmail.com](mailto:danglinh.k4@gmail.com)**  
 
 ---
 
