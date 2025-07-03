@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Framework** and **Microservices Architecture**  
 - 💬 Ask me about **Java, Spring Boot, Web Development, Databases**  
-- 📫 How to reach me: **[danglinh1502@gmail.com](mailto:danglinh1502@gmail.com)**  
+- 📫 How to reach me: **[danglinh.k4@gmail.com](mailto:danglinh.k4@gmail.com)**  
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
